@@ -1,0 +1,8 @@
+Dada uma árvore com 10 vértices. Quantas arestas têm essa árvore.
+Usando um dos teoremas: Uma árvore com n vértices tem n-1 arestas. Então para 10 vértices existem 9 arestas.
+
+Dado um outro grafo com 10 vértices. Esse grafo tem uma aresta para cada par de vértices (grafo completo). Quantas arestas têm esse grafo?
+Número de arestas =(vértices * (vértices−1)) / 2
+Então
+Número de Arestas = (10 * 9) / 2 
+Número de Arestas = 45
